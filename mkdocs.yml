@@ -1,0 +1,4 @@
+site_name: Custom name by Bartek
+nav:
+    - Home: index.md
+    - About: about.md
